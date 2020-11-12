@@ -41,7 +41,7 @@ TODO.
 	* Setup data pipeline using tf.data
 	* Transfer learning
 	* Save model
-* Serve model as REST API, test locally
+* Serve model, test locally
 * Add features
 
 
