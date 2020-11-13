@@ -15,7 +15,6 @@ Navigate to the project folder and create a new working Python 3.6 environment w
 ```
 pip install -r requirements.txt
 ```
-
 You are all setup!
 
 ### 2. Usage
