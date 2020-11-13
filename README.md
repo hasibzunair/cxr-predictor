@@ -1,8 +1,8 @@
-## Predict different radiological findings from Chest X-ray images [WORK IN PROGRESS]
+## Predict different radiological conditions from Chest X-ray images 
 
-This is a package for predicting different radiological findings from chest X-ray images.
+This is a package for predicting different radiological conditions from chest X-ray images.
 
-### Getting started
+### 1. Getting started
 
 To use the code, first clone the repo using:
 ```
@@ -17,19 +17,22 @@ pip install -r requirements.txt
 
 You are all setup!
 
-### Usage
+### 2. Usage
 TODO.
 
-### Pretrained models
+### 3. Pretrained models
+
+Here's the list of pretrained models that are available. Training details/code will be added later.
 
 | Model | Dataset | Image Size | Checkpoint |
 |:---:|:---:|:---:|:---:|
 | DenseNet121 | CheXpert | 224x224 | [CheXpert_DenseNet121_res224.h5](https://github.com/hasibzunair/cxr-predictor/releases/latest/download/CheXpert_DenseNet121_res224.h5) |
-| XX | XX | XX | XX |
+| EfficientNet B1 | NIH | 224x224 | -- |
 
+### 4. Results
+TODO.
 
-
-### Results
+### 5. References
 TODO.
 
 
