@@ -1,0 +1,10 @@
+tensorflow==2.0.0
+keras==2.3.1
+efficientnet
+h5py==2.10.0
+streamlit==0.70.0
+pandas==1.0.1
+numpy==1.18.1
+pillow
+seaborn
+opencv-python-headless==4.2.0.32
