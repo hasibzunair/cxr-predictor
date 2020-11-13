@@ -1,4 +1,5 @@
-## Predict different radiological conditions from Chest X-ray images 
+#### WORK IN PROGRESS
+## Predict different radiological conditions from chest X-ray images 
 
 This is a package for predicting different radiological conditions from chest X-ray images.
 
@@ -29,7 +30,7 @@ Here's the list of pretrained models that are available. Training details/code w
 | DenseNet121 | CheXpert | 224x224 | [CheXpert_DenseNet121_res224.h5](https://github.com/hasibzunair/cxr-predictor/releases/latest/download/CheXpert_DenseNet121_res224.h5) |
 | EfficientNet B1 | NIH | 224x224 | -- |
 
-### 4. Results
+### 4. Inference
 TODO.
 
 ### 5. References
