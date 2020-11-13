@@ -22,10 +22,10 @@ TODO.
 
 ### Pretrained models
 
-| Model | Weights|
-|:---:|:---:|
-| DenseNet121 trained on CheXpert dataset at 224 image size | [CheXpert_DenseNet121_res224.h5.h5](https://github.com/hasibzunair/cxr-predictor/releases/latest/download/CheXpert_DenseNet121_res224.h5) |
-| XX | XX |
+| Model | Dataset | Image Size | Checkpoint |
+|:---:|:---:|:---:|:---:|
+| DenseNet121 | CheXpert | 224x224 | [CheXpert_DenseNet121_res224.h5](https://github.com/hasibzunair/cxr-predictor/releases/latest/download/CheXpert_DenseNet121_res224.h5) |
+| XX | XX | XX | XX |
 
 
 
