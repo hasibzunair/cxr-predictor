@@ -30,7 +30,6 @@ Here's the list of pretrained models that are available. Training details/codes 
 | EfficientNet B1 | NIH | 224x224 | [NIH_EfficientNetB1_res224.h5](https://github.com/hasibzunair/cxr-predictor/releases/latest/download/NIH_EfficientNetB1_res224.h5) |
 
 ### 4. Inference
-
 Demo notebooks are available in `notebooks/`
 
 ### 5. References
