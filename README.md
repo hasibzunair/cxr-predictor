@@ -22,7 +22,7 @@ TODO.
 
 ### 3. Pretrained models
 
-Here's the list of pretrained models that are available. Training details/code will be added later.
+Here's the list of pretrained models that are available. Training details/codes will be added later.
 
 | Model | Dataset | Image Size | Checkpoint |
 |:---:|:---:|:---:|:---:|
@@ -30,7 +30,8 @@ Here's the list of pretrained models that are available. Training details/code w
 | EfficientNet B1 | NIH | 224x224 | -- |
 
 ### 4. Inference
-TODO.
+
+Demo notebook for model trained on CheXpert is at https://github.com/hasibzunair/cxr-predictor/blob/main/notebooks/chexpert_inference.ipynb
 
 ### 5. References
 TODO.
