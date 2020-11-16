@@ -31,6 +31,7 @@ def residual_block(blockInput, num_filters=16):
     return x
 
 def UEfficientNet(input_shape=(None, None, 3),dropout_rate=0.1):
+    """U-Net based model with EfficientNet-B4 encoder"""
 
     backbone = EfficientNetB4(weights='imagenet',
                             include_top=False,
