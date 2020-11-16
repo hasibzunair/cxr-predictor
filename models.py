@@ -104,3 +104,7 @@ def UEfficientNet(input_shape=(None, None, 3),dropout_rate=0.1):
     model.name = 'u-xception'
 
     return model
+
+
+if __name__ == "__main__":
+    pass
