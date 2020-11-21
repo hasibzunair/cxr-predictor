@@ -1,5 +1,6 @@
 tensorflow==2.0.0
 keras==2.3.1
+tf-explain
 efficientnet
 pandas==1.0.1
 numpy==1.18.1
