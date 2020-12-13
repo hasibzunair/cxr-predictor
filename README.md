@@ -27,7 +27,7 @@ Here's the list of pretrained models that are available. Training details/codes 
 | Model | Dataset | Image Size | Checkpoint |
 |:---:|:---:|:---:|:---:|
 | DenseNet121 | CheXpert | 224x224 | [CheXpert_DenseNet121_res224.h5](https://github.com/hasibzunair/cxr-predictor/releases/latest/download/CheXpert_DenseNet121_res224.h5) |
-| EfficientNet B1 | NIH | 224x224 | [NIH_EfficientNetB1_res224.h5](https://github.com/hasibzunair/cxr-predictor/releases/latest/download/NIH_EfficientNetB1_res224.h5) |
+| EfficientNet B1 (featurewise std) | NIH | 224x224 | [NIH_EfficientNetB1_res224.h5](https://github.com/hasibzunair/cxr-predictor/releases/latest/download/NIH_EfficientNetB1_res224.h5) |
 | EfficientNet B1 (0-1 normalization) | NIH | 224x224 | [NIH_EfficientNetB1_res224_rescale01.h5](https://github.com/hasibzunair/cxr-predictor/releases/latest/download/NIH_EfficientNetB1_res224_rescale01.h5) |
 | Mask RCNN | RSNA Pneumonia Detection  | 224x224 | [RNSA_Pneumonia_MaskRCNN_7epochs.h5](https://github.com/hasibzunair/cxr-predictor/releases/latest/download/RNSA_Pneumonia_MaskRCNN_7epochs.h5) |
 | U-Net | SIIM-ACR Pneumothorax Segmentation  | 224x224 | [SIIM-ACR_UEfficientNetB4_res256.h5](https://github.com/hasibzunair/cxr-predictor/releases/latest/download/SIIM-ACR_UEfficientNetB4_res256.h5) |
